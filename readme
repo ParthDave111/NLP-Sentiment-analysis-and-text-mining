@@ -1,13 +1,14 @@
-# Data-Science
+# Natural Language processing- Sentiment Analysis and Text Mining 
 
-### Python for Data SCEINCE 
-|Day |Code Content |
+### Python for NLP 
+|Code content |Notebook name |
 |:-:|:-:|
-|DAY 1|Git Hub profile|
-| DAY 2  |Intro |
-
-
- |Code Content |Python Notebook|
- |:-:|:-:|
- |EDA AND FE  |Python Notebook|
- |Model Training  |Python Notebook|
+|Rule Based -Regex|nlp_regex|
+| Diff btw spacy and NLTK  |spacy_vs_nltk |
+| Spacy (segmentation)  |spacy_tokenization|
+| spacy -pre-processing  | |spacy_advance|
+| Stemming and Lemmatization | stemming_and_leammanization|
+| part of speech | part_of_speech|
+| spam proj | db : spam.csv|
+| spam proj -Manual  |spam_bow|
+| spam proj -Pipeline   |spam_sk_learn|
